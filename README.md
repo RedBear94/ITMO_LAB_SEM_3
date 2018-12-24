@@ -20,7 +20,7 @@ https://kodaktor.ru/g/weather_task
 Считывание информации из RSS
 https://kodaktor.ru/rss_task
 
-+NODE-004
++ NODE-004
 Анализ стрима
 
 https://github.com/GossJS/stream
