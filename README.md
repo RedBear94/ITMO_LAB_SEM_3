@@ -5,7 +5,7 @@
 Асинхронное тестирование, Zombie + Puppeteer
 https://kodaktor.ru/g/07092018
 
-+ NODE-001 
++ NODE-001  
 Создание простого сервера на простом модуле http
 https://kodaktor.ru/g/14092018
 
