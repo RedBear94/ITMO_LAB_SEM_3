@@ -3,7 +3,6 @@
 
 + PZAT-001 / TEST-001    
 Асинхронное тестирование, Zombie + Puppeteer  
-
 https://kodaktor.ru/g/07092018
 
 + NODE-001 
@@ -22,7 +21,6 @@ https://kodaktor.ru/rss_task
 
 + NODE-004
 Анализ стрима
-
 https://github.com/GossJS/stream
 
 
