@@ -2,7 +2,7 @@
 Задания
 
 + PZAT-001 / TEST-001    
-Асинхронное тестирование, Zombie + Puppeteer  
+Асинхронное тестирование, Zombie + Puppeteer
 https://kodaktor.ru/g/07092018
 
 + NODE-001 
@@ -63,5 +63,4 @@ NODE-005
 
 +TERM-001
 ИТОГОВОЕ задание / задание по практике
-
 https://kodaktor.ru/blogger_task
