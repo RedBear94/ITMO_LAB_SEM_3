@@ -7,7 +7,7 @@ let items;
 let posts;
 const PORT = 8080;
 const URLUsers = 'https://kodaktor.ru/j/users';
-const URLPosts = 'https://goss-minbulat.c9users.io:8081/api/posts';
+const URLPosts = 'https://php-nir-scraping-parsing.c9users.io:8081/api/posts';
 const app = express();
 
 const checkAuth = (r, res, next) => {
