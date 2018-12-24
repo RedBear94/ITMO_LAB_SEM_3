@@ -1,7 +1,7 @@
 # ifmo-2018
 Задания
 
-+ PZAT-001 / TEST-001 
++ PZAT-001 / TEST-001  
 Асинхронное тестирование, Zombie + Puppeteer
 https://kodaktor.ru/g/07092018
 
