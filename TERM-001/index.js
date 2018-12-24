@@ -78,5 +78,3 @@ app
 })
 
 .listen( 8081, () => console.log('I`m OK'));
-
-//http://goss-minbulat.c9users.io:8080
