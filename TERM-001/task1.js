@@ -61,4 +61,3 @@ app
     
 // npm i express axios pug
 // npm install -g npm
-// http://goss-minbulat.c9users.io:8080/
