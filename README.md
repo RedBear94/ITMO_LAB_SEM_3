@@ -38,7 +38,6 @@ https://kodaktor.ru/public23112018
 http://kodaktor.ru/pract-II-lab-t4-sess.pdf
 
 ```
-T
 NODE-004
 Реализация виртуальных хостов с помощью node
 
@@ -47,7 +46,6 @@ SOCK-001
 ```
 https://github.com/GossJS/nosocks
 ```
-T
 DOCK-001
 Обёртывание приложения в контейнеры: исследование
  как автоматизировать создание REST
@@ -55,12 +53,11 @@ DOCK-001
 ```
 https://github.com/GossJS/mongorestdocker/tree/mongorestvolume
 ```
-T
 NODE-005
 Развёртывание CMS на Node и их сравнительный анализ при сопоставлении с CMS на PHP. Пример: Ghost vs WordPress
 ```
 
 
-+TERM-001  
++ TERM-001  
 ИТОГОВОЕ задание / задание по практике
 https://kodaktor.ru/blogger_task
